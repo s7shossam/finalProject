@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Sarah Johnson",
+    "specialization": "Cardiologist",
+    "experience": 12,
+    "rating": 4.8,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Dr. Ahmed Ali",
+    "specialization": "Dermatologist",
+    "experience": 8,
+    "rating": 4.5,
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Dr. Emily Carter",
+    "specialization": "Pediatrician",
+    "experience": 10,
+    "rating": 4.9,
+    "available": false
+  },
+  {
+    "id": 4,
+    "name": "Dr. Omar Hassan",
+    "specialization": "Orthopedic",
+    "experience": 7,
+    "rating": 4.6,
+    "available": true
+  }
+]
