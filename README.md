@@ -63,11 +63,11 @@ flutter build apk --release
 
 | Splash | Onboarding | Sign-in |
 |--------|------------|---------|
-| ![Splash](screenshots/splash.png) | ![Onboarding1](screenshots/onboarding1.png) | ![SignIn](screenshots/signin.png) |
+| ![Splash](screenshots/splash.jpg) | ![Onboarding1](screenshots/onboarding1.jpg) | ![Onboarding1](screenshots/onboarding2.jpg)| ![Onboarding1](screenshots/onboarding3.jpg) | ![SignIn](screenshots/signin.jpg) |
 
 | OTP | Home Tabs | Search |
 |----|-----------|--------|
-| ![OTP](screenshots/otp.png) | ![patient](screenshots/patient.png) | ![doctor](doctor/search.png) |
+| ![OTP](screenshots/otp.jpg) | ![patient](screenshots/patient.jpg) | ![doctor](screenshots/doctor.jpg) |
 
 ---
 
